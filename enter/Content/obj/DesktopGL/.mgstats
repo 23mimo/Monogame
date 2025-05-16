@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/mikaa/Downloads/enter/enter/Content/../../../face.png","c:/Users/mikaa/Downloads/enter/enter/Content/bin/DesktopGL/face.xnb","TextureProcessor","Texture2DContent",13728,6752149,0,3051417
+"c:/Users/mikaa/Downloads/enter/enter/Content/monkey1024x.gif","c:/Users/mikaa/Downloads/enter/enter/Content/bin/DesktopGL/monkey1024x.xnb","TextureProcessor","Texture2DContent",40962,4194389,0,1047172
+"c:/Users/mikaa/Downloads/enter/enter/Content/monkey32x.gif","c:/Users/mikaa/Downloads/enter/enter/Content/bin/DesktopGL/monkey32x.xnb","TextureProcessor","Texture2DContent",4098,4181,0,0091595
+"c:/Users/mikaa/Downloads/enter/enter/Content/monkey512x.gif","c:/Users/mikaa/Downloads/enter/enter/Content/bin/DesktopGL/monkey512x.xnb","TextureProcessor","Texture2DContent",20481,1048661,0,030966
+"c:/Users/mikaa/Downloads/enter/enter/Content/Sprites/face.png","c:/Users/mikaa/Downloads/enter/enter/Content/bin/DesktopGL/Sprites/face.xnb","TextureProcessor","Texture2DContent",13728,6752149,0,1461334

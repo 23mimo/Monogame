@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mikaa/Downloads/enter/enter/Content/../../../face.png</File>
+    <File>C:/Users/mikaa/Downloads/enter/enter/Content/monkey1024x.gif</File>
+    <File>C:/Users/mikaa/Downloads/enter/enter/Content/monkey32x.gif</File>
+    <File>C:/Users/mikaa/Downloads/enter/enter/Content/monkey512x.gif</File>
+    <File>C:/Users/mikaa/Downloads/enter/enter/Content/Sprites/face.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>face.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
